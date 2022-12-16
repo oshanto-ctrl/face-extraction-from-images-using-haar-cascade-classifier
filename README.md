@@ -1,4 +1,4 @@
-# frontal_face-extraction-using-har-cascade-classifier
+# frontal_face-extraction-using-haar-cascade-classifier
 ### There are 3 files here:
 ##### 1. rename_pictures.py to rename the pictures(1 -> n) in a file.
 ##### 2. image_resize_resample.py to resize and resample the pictures in a file location. you can set specific size to resize the images i.e 128x128 or 512x512.
